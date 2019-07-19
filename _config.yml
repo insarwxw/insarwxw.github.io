@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : insarwxw
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Xiaowen Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "InSAR, Earthquakes, Volcanoes, Mountain Permafrost"
+  location         : "Chengdu, CHINA"
+  employer         : "Southwest Jiaotong University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "insarwxw@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Xiaowen_Wang6"
   uri              :
   bitbucket        :
   codepen          :
