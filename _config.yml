@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Xiaowen Wang"
   avatar           : "profile.png"
-  bio              : "InSAR, Earthquakes, Volcanoes, Permafrost\n Email: insarwxw@gmail.com"
+  bio              : "InSAR, Earthquakes, Volcanoes, Permafrost;        Email: insarwxw@gmail.com"
   location         : "Chengdu, CHINA"
   employer         : "Southwest Jiaotong University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=DSG6whEAAAAJ&hl=en"
   email            : #"insarwxw@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Xiaowen_Wang6"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6532-9606"
+  orcid            : #"https://orcid.org/0000-0001-6532-9606"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
