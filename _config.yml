@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Xiaowen Wang"
   avatar           : "profile.png"
-  bio              : "InSAR, Earthquakes, Volcanoes, Mountain Permafrost"
+  bio              : "InSAR, Earthquakes, Permafrost\n Email: insarwxw@gmail.com"
   location         : "Chengdu, CHINA"
   employer         : "Southwest Jiaotong University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "insarwxw@gmail.com"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=DSG6whEAAAAJ&hl=en"
+  email            : #"insarwxw@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Xiaowen_Wang6"
   uri              :
   bitbucket        :
