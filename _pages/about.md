@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The academic homepage of Dr. Xiaowen Wang"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
