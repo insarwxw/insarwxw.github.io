@@ -25,3 +25,7 @@ Professional Experiences
 - **2015.08 – 2016.08, The Chinese University of Hong Kong**   
   Research Assistant, Earth System Science Programme, Advisor: Prof. Lin Liu
  
+News 
+======
+
+***2019-07-10:*** Move to Chengdu and join the Faculty of Geosciences and Environmental Engineering,Southwest Jiaotong University. 
