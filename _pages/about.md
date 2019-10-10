@@ -27,5 +27,7 @@ Professional Experiences
  
 News 
 ======
-
-***2019-07-10:*** Move to Chengdu and join the Faculty of Geosciences and Environmental Engineering,Southwest Jiaotong University. 
+```
+2019-10-12: test
+2019-07-10: Move to Chengdu and join the Faculty of Geosciences and Environmental Engineering,Southwest Jiaotong University. 
+```
