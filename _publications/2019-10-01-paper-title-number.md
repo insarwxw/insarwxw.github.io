@@ -11,15 +11,15 @@ permalink: /publication/2019-10-01-paper-title-number
 
 - #### First or corresponding author
 
-[13]  **Xiaowen Wang**\*, Yosuke Aoki. Post-eruptive thermoelastic deflation of intruded magma in Usu volcano, Japan, 1992–2017. ***Journal of Geophysical Research: Solid Earth***, 2019, 124: 335–357. [DOWNLOAD](www.test.com)
+[13]  **Xiaowen Wang**\*, Yosuke Aoki. Post-eruptive thermoelastic deflation of intruded magma in Usu volcano, Japan, 1992–2017. ***Journal of Geophysical Research: Solid Earth***, 2019, 124: 335–357. [Download](www.test.com)
 
-[12]  **Xiaowen Wang,** Lin Liu\*, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu. Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry. ***The Cryosphere***, 2017, 11:997–1014. [DOWNLOAD](www.test.com)
+[12]  **Xiaowen Wang,** Lin Liu\*, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu. Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry. ***The Cryosphere***, 2017, 11:997–1014. [Download](www.test.com)
 
-[11]  **Xiaowen Wang**, Guoxiang Liu\*, Bing Yu, Keren Dai, Rui Zhang, Deying Ma, Zhilin Li. An integrated method based on DInSAR, MAI and displacement gradient tensor for mapping the 3D coseismic deformation field related to the 2011 Tarlay Earthquake (Myanmar). ***Remote Sensing of Environment***, 2015, 170: 388–404. [DOWNLOAD](www.test.com)
+[11]  **Xiaowen Wang**, Guoxiang Liu\*, Bing Yu, Keren Dai, Rui Zhang, Deying Ma, Zhilin Li. An integrated method based on DInSAR, MAI and displacement gradient tensor for mapping the 3D coseismic deformation field related to the 2011 Tarlay Earthquake (Myanmar). ***Remote Sensing of Environment***, 2015, 170: 388–404. [Download](www.test.com)
 
-[10]  **Xiaowen Wang**, Guoxiang Liu\*, Bing Yu, Keren Dai, Qiang Chen, Zhilin Li. 3D coseismic deformations and source parameters of the 2010 Yushu earthquake (China) inferred from DInSAR and multiple-aperture InSAR measurements. ***Remote Sensing of Environment***, 2014, 152: 174–189. [DOWNLOAD](www.test.com)
+[10]  **Xiaowen Wang**, Guoxiang Liu\*, Bing Yu, Keren Dai, Qiang Chen, Zhilin Li. 3D coseismic deformations and source parameters of the 2010 Yushu earthquake (China) inferred from DInSAR and multiple-aperture InSAR measurements. ***Remote Sensing of Environment***, 2014, 152: 174–189. [Download](www.test.com)
 
-[9]  **Xiaowen Wang**, Guoxiang Liu\*, Rui Zhang, Bing Yu, Tao Li. Extracting 3D Deformation Field by Integration of Multiple Aperture Interferometry and Conventional Synthetic Aperture Radar Interferometry. ***Journal of Geodesy and Geodynamics***, 2014, 34(4): 127–134. (In Chinese) [DOWNLOAD](www.test.com)
+[9]  **Xiaowen Wang**, Guoxiang Liu\*, Rui Zhang, Bing Yu, Tao Li. Extracting 3D Deformation Field by Integration of Multiple Aperture Interferometry and Conventional Synthetic Aperture Radar Interferometry. ***Journal of Geodesy and Geodynamics***, 2014, 34(4): 127–134. (In Chinese) [Download](www.test.com)
 
 - #### Others
 
