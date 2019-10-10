@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: " "
 collection: publications
 permalink: /publication/2019-10-01-paper-title-number
 ---
