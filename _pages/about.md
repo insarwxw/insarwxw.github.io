@@ -19,11 +19,9 @@ Education
 Professional Experiences 
 ======
 - **2019.07 –, Southwest Jiaotong University (China)**
-
   Associate Professor, Faculty of Geosciences and Environmental Engineering, 
 - **2017.08 – 2019.03, The University of Tokyo (Japan)**
-
   Postdoctoral Researcher, Earthquake Research Institute,. Advisor: Prof. Yosuke Aoki
 - **2015.08 – 2016.08, The Chinese University of Hong Kong** 
-
   Research Assistant, Earth System Science Programme, Advisor: Prof. Lin Liu
+ 
