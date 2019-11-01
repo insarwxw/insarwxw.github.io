@@ -5,17 +5,23 @@ permalink: /publications/2019-10-01-paper-title-number
 ---
 
 ## **Submitted**
+   
 - None
+   
 ## **Published**
-### 2018-2019  
+### 2019
        
 - **Xiaowen Wang**, Yosuke Aoki. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. **Earth, Planets and Space**, 2019. 
         
 - **Xiaowen Wang**\*, Yosuke Aoki. Post-eruptive thermoelastic deflation of intruded magma in Usu volcano, Japan, 1992–2017. ***Journal of Geophysical Research: Solid Earth***, 2019, 124: 335–357. [Download](www.test.com)
    
 - Yueling Shi, Guoxiang Liu\*, **Xiaowen Wang**, Qiao Liu, Rui Zhang, Hongguo Jia. Assessing the Glacier Boundaries in the Qinghai-Tibetan Plateau of China by Multi-Temporal Coherence Estimation with Sentinel-1A InSAR. ***Remote Sensing***, 2019, 11(4), 392. [Download](www.test.com)
+  
+### 2018  
 
-### 2010-2017 (During my Ph.D.)   
+- Zhiheng Wang, Rui Zhang, **Xiaowen Wang**, Guoxiang Liu, Retrieving Three-Dimensional Co-Seismic Deformation of the 2017 Mw7.3 Iraq Earthquake by Multi-Sensor SAR Images. ***Remote Sensing***. 2018, 10, 857. [Download](www.test.com)
+
+### 2013-2017 (During my Ph.D.)   
       
 - **Xiaowen Wang,** Lin Liu\*, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu. Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry. ***The Cryosphere***, 2017, 11:997–1014. [Download](www.test.com)
                         
@@ -34,8 +40,5 @@ permalink: /publications/2019-10-01-paper-title-number
 - Bing Yu, Guoxiang Liu\*, Rui Zhang, Hongguo Jia, Tao Li, **Xiaowen Wang**, Keren Dai, Deying Ma. Monitoring subsidence rates along road network by persistent scatterer SAR interferometry with high-resolution TerraSAR-X imagery. ***Journal of Modern Transportation***, 2013, 21(04): 236–246. [Download](www.test.com)
          
 - Bing Yu, Guoxiang Liu\*, Zhilin Li, Rui Zhang, Hongguo Jia, **Xiaowen Wang**, Guolin Cai. Subsidence detection by TerraSAR-X interferometry on a network of natural persistent scatterers and artificial corner reflectors. ***Computers & Geosciences***, 2013, 58: 126–136. [Download](www.test.com)
-           
-### **Conference Proceedings** 
-- Bing Yu, Guoxiang Liu\*, Hongguo Jia, Keren Dai, Rui Zhang, Tao Li, Deying Ma, **Xiaowen Wang**. Short baseline TerraSAR-X PSI for monitoring ground subsidence of highways and railways. ***Proceedings of ISPRS Conference on Serving Society with Geoinformatics (ISPRS2013-SSG)***, Turkey, 2013, pp.277–285.
-  
-- Keren Dai, Guoxiang Liu\*, Bing Yu., Hongguo Jia, Ma, Deying Ma, **Xiaowen Wang**. Detecting Subsidence Along a High Speed Railway by Ultrashort Baseline TCP-InSAR with High Resolution Images. ***Proceedings of ISPRS Conference on Serving Society with Geoinformatics (ISPRS2013-SSG)***, Turkey, 2013, pp.61–65.
+       
+       
