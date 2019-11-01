@@ -1,7 +1,7 @@
 ---
 title: ""
 collection:
-permalink: publications/paper-title-number.md
+permalink: 
 ---
 ## **Submitted**
    
