@@ -1,7 +1,7 @@
 ---
-title: " "
+title: "Publications"
 collection: publications
-permalink: /publication/2019-10-01-paper-title-number
+permalink: /publications/2019-10-01-paper-title-number
 ---
 
 ### **Submitted**
