@@ -1,9 +1,8 @@
 ---
-title: "Publications"
-collection: publications
-permalink: /publications/2019-10-01-paper-title-number
+title: ""
+collection:
+permalink: publications/paper-title-number.md
 ---
-
 ## **Submitted**
    
 - None
