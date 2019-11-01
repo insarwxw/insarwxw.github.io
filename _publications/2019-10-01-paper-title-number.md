@@ -11,7 +11,7 @@ permalink: /publications/2019-10-01-paper-title-number
 ## **Published** (Corresponding Author*)
 ### 2019
        
-- **Xiaowen Wang**, Yosuke Aoki. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. **Earth, Planets and Space**, 2019. [Download PDF](www.test.com)
+- **Xiaowen Wang**\*, Yosuke Aoki, Jie Chen. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. **Earth, Planets and Space**, 2019. [Download PDF](www.test.com)
         
 - **Xiaowen Wang**\*, Yosuke Aoki. Post-eruptive thermoelastic deflation of intruded magma in Usu volcano, Japan, 1992–2017. ***Journal of Geophysical Research: Solid Earth***, 2019, 124: 335–357. [Download PDF](www.test.com)
    
