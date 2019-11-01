@@ -5,12 +5,15 @@ permalink: /publications/2019-10-01-paper-title-number
 ---
 
 ## **Submitted**
-[1] **Xiaowen Wang**, Yosuke Aoki. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. **Earth, Planets and Space**, 2019. 
+- None
 ## **Journal Publications**
 ### 2018-2019  
-[13]  **Xiaowen Wang**\*, Yosuke Aoki. Post-eruptive thermoelastic deflation of intruded magma in Usu volcano, Japan, 1992–2017. ***Journal of Geophysical Research: Solid Earth***, 2019, 124: 335–357. [Download](www.test.com)<br>
+       
+- **Xiaowen Wang**, Yosuke Aoki. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. **Earth, Planets and Space**, 2019. 
+        
+- **Xiaowen Wang**\*, Yosuke Aoki. Post-eruptive thermoelastic deflation of intruded magma in Usu volcano, Japan, 1992–2017. ***Journal of Geophysical Research: Solid Earth***, 2019, 124: 335–357. [Download](www.test.com)<br>
                                        
-[12]  **Xiaowen Wang,** Lin Liu\*, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu. Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry. ***The Cryosphere***, 2017, 11:997–1014. [Download](www.test.com)<br>
+- **Xiaowen Wang,** Lin Liu\*, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu. Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry. ***The Cryosphere***, 2017, 11:997–1014. [Download](www.test.com)<br>
                         
 [11]  **Xiaowen Wang**, Guoxiang Liu\*, Bing Yu, Keren Dai, Rui Zhang, Deying Ma, Zhilin Li. An integrated method based on DInSAR, MAI and displacement gradient tensor for mapping the 3D coseismic deformation field related to the 2011 Tarlay Earthquake (Myanmar). ***Remote Sensing of Environment***, 2015, 170: 388–404. [Download](www.test.com)<br>
                          
