@@ -8,7 +8,7 @@ permalink: /publications/2019-10-01-paper-title-number
    
 - None
    
-## **Published**
+## **Published** (Corresponding Author*)
 ### 2019
        
 - **Xiaowen Wang**, Yosuke Aoki. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. **Earth, Planets and Space**, 2019. [Download PDF](www.test.com)
@@ -19,7 +19,7 @@ permalink: /publications/2019-10-01-paper-title-number
   
 ### 2018  
 
-- Zhiheng Wang, Rui Zhang, **Xiaowen Wang**, Guoxiang Liu, Retrieving Three-Dimensional Co-Seismic Deformation of the 2017 Mw7.3 Iraq Earthquake by Multi-Sensor SAR Images. ***Remote Sensing***. 2018, 10, 857. [Download PDF](www.test.com)
+- Zhiheng Wang, Rui Zhang\*, **Xiaowen Wang**, Guoxiang Liu, Retrieving Three-Dimensional Co-Seismic Deformation of the 2017 Mw7.3 Iraq Earthquake by Multi-Sensor SAR Images. ***Remote Sensing***. 2018, 10, 857. [Download PDF](www.test.com)
 
 ### 2013-2017 (During my Ph.D.)   
       
