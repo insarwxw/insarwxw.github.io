@@ -11,17 +11,17 @@ permalink: /publications/2019-10-01-paper-title-number
 ## **Published** (Corresponding Author*)
 ### 2019
        
-- **Xiaowen Wang**\*, Yosuke Aoki, Jie Chen. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. **Earth, Planets and Space**, 2019. [Download PDF](www.test.com)
+- **Xiaowen Wang**\*, Yosuke Aoki, Jie Chen. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. ***Earth, Planets and Space***, 2019. [Download PDF](www.test.com)
         
 - **Xiaowen Wang**\*, Yosuke Aoki. Post-eruptive thermoelastic deflation of intruded magma in Usu volcano, Japan, 1992–2017. ***Journal of Geophysical Research: Solid Earth***, 2019, 124: 335–357. [Download PDF](www.test.com)
    
-- Yueling Shi, Guoxiang Liu\*, **Xiaowen Wang**, Qiao Liu, Rui Zhang, Hongguo Jia. Assessing the Glacier Boundaries in the Qinghai-Tibetan Plateau of China by Multi-Temporal Coherence Estimation with Sentinel-1A InSAR. ***Remote Sensing***, 2019, 11(4), 392. [Download PDF](www.test.com)
+- Yueling Shi, Guoxiang Liu\*, **Xiaowen Wang**, Qiao Liu, Rui Zhang, Hongguo Jia. Assessing the glacier boundaries in the Qinghai-Tibetan plateau of China by multi-Temporal coherence estimation with Sentinel-1A InSAR. ***Remote Sensing***, 2019, 11(4), 392. [Download PDF](www.test.com)
   
 ### 2018  
 
-- Zhiheng Wang, Rui Zhang\*, **Xiaowen Wang**, Guoxiang Liu, Retrieving Three-Dimensional Co-Seismic Deformation of the 2017 Mw7.3 Iraq Earthquake by Multi-Sensor SAR Images. ***Remote Sensing***. 2018, 10, 857. [Download PDF](www.test.com)
+- Zhiheng Wang, Rui Zhang\*, **Xiaowen Wang**, Guoxiang Liu, Retrieving Three-dimensional co-seismic deformation of the 2017 Mw7.3 Iraq earthquake by multi-sensor SAR images. ***Remote Sensing***. 2018, 10, 857. [Download PDF](www.test.com)
 
-### 2013-2017 (During my Ph.D.)   
+### 2013-2017 
       
 - **Xiaowen Wang,** Lin Liu\*, Lin Zhao, Tonghua Wu, Zhongqin Li, Guoxiang Liu. Mapping and inventorying active rock glaciers in the northern Tien Shan of China using satellite SAR interferometry. ***The Cryosphere***, 2017, 11:997–1014. [Download PDF](www.test.com)
       
