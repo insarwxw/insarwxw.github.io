@@ -1,7 +1,7 @@
 ---
 title:
-collection:
-permalink: 
+#collection:
+#permalink: 
 ---
 
 ## **Submitted**
