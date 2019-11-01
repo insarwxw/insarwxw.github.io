@@ -1,3 +1,9 @@
+---
+title:
+collection:
+permalink: 
+---
+
 ## **Submitted**
    
 - None
