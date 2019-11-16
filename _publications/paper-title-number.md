@@ -1,9 +1,3 @@
----
-#title:
-#collection:
-#permalink: 
-
----
 
 ## **Submitted**
    
