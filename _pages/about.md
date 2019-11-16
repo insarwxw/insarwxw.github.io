@@ -27,5 +27,5 @@ Professional Experiences
 
 News 
 ======
-- 2019-10-12: test
+- 2019-10-12: [New paper](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-019-1104-9) published by "Earth, Planet and Space".
 - 2019-07-10: Move to Chengdu and join the Faculty of Geosciences and Environmental Engineering,Southwest Jiaotong University. 
