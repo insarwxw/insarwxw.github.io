@@ -15,8 +15,10 @@ main:
   - title: "Group Members"
     url: /year-archive/
     
+  #- title: "Resources"
+  #  url: /cv/
   - title: "Resources"
-    url: /cv/
+    url: /resources/
     
 #  - title: "Guide"
 #    url: /markdown/
