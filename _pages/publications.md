@@ -17,7 +17,7 @@ For proper citations, refer [Google Scholar](https://scholar.google.com/citation
 
 [4] Yueling Shi, **Xiaowen Wang\***, Guoxiang Liu, C.K. Shum, Jiawen Bao, Wenfei Mao. Three-dimensional Flow Velocity Time-series of the Surge-type Kunlun Glacier, Tibetan Plateau, from Sentinel-1 SAR PO-SBAS Observation. 2020. (Submitted)
 
-[5] A. Takeo*****, K. Nishida, H. Aoyama, M. Ishise, T. Kai, T. Maeda, Y. Mizutani, S. Nagahara, **Xiaowen Wang**, L. Ye, Y. Aoki. Seismic observations of Showa-Shinzan lava dome in Usu Volcano, Northern Japan, 2020. (Submitted)
+[5] A. Takeo\***, K. Nishida, H. Aoyama, M. Ishise, T. Kai, T. Maeda, Y. Mizutani, S. Nagahara, **Xiaowen Wang**, L. Ye, Y. Aoki. Seismic observations of Showa-Shinzan lava dome in Usu Volcano, Northern Japan, 2020. (Submitted)
 
 [6] Wei Xiang, Rui Zhang *, Guoxiang Liu, **Xiaowen Wang**, Wenfei Mao, Bo Zhang, Yin Fu, Tingting Wu Renzhe Wu, Saline-soil deformation extraction based on an improved time-series InSAR approach, 2020. (Submitted)
 
