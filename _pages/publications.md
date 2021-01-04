@@ -5,8 +5,6 @@ author_profile: true
 ---
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=DSG6whEAAAAJ&hl=en)<br>
 <br>
-<br>
-
 ## **Submitted/In preparation**
 
 [1] **Xiaowen Wang\***, Yosuke Aoki, Shuhei Okubo, Guoxiang Liu. Large topographic changes of the Usu volcano from SAR interferometry and historical KH-4 KORONA images, 2021. (In preparation)
