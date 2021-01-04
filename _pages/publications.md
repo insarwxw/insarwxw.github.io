@@ -23,11 +23,11 @@ For proper citations, refer [Google Scholar](https://scholar.google.com/citation
 
 ## **Published** (Corresponding Author*)
 
-[20] Wenfei Mao, Guoxiang Liu*****, **Xiaowen Wang\***, Rui Zhang, Wei Xiang, Shuaiying Wu, Bo Zhang, Jiawen Bao. An InSAR Ionospheric Correction Method Based on Variance Component Estimation with Integration of MAI and RSS Measurements, ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2020, 12.
+[20] Wenfei Mao, Guoxiang Liu\*, **Xiaowen Wang\***, Rui Zhang, Wei Xiang, Shuaiying Wu, Bo Zhang, Jiawen Bao. An InSAR Ionospheric Correction Method Based on Variance Component Estimation with Integration of MAI and RSS Measurements, ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2020, 12.
 
-[19] Wei Xiang, Guoxiang Liu*****, **Xiaowen Wang**, Wenfei Mao, Bo Zhang, Jialun Cai, Jiawen Bao, Yin Fu. Extraction and Analysis of saline soil deformation in the Qarhan Salt Lake Region (in Qinghai, China) by the Sentinel SBAS-InSAR Technique, ***Geodesy and Geodynamics***, 2020. (In publish)
+[19] Wei Xiang, Guoxiang Liu\*, **Xiaowen Wang**, Wenfei Mao, Bo Zhang, Jialun Cai, Jiawen Bao, Yin Fu. Extraction and Analysis of saline soil deformation in the Qarhan Salt Lake Region (in Qinghai, China) by the Sentinel SBAS-InSAR Technique, ***Geodesy and Geodynamics***, 2020. (In publish)
 
-[18] Renzhe Wu, Guoxiang Liu*****, Rui Zhang, **Xiaowen Wang**, Bo Zhang, Jialun Cai, Wei Xiang,. A Deep Learning Method for Mapping Glacial Lakes from the Combined Use of Synthetic-Aperture Radar and Optical Satellite Images. ***Remote Sensing***. 2020, 12, 4020.
+[18] Renzhe Wu, Guoxiang Liu\*, Rui Zhang, **Xiaowen Wang**, Bo Zhang, Jialun Cai, Wei Xiang,. A Deep Learning Method for Mapping Glacial Lakes from the Combined Use of Synthetic-Aperture Radar and Optical Satellite Images. ***Remote Sensing***. 2020, 12, 4020.
 
 [17] Yan Hu\*, Lin Liu\*, **Xiaowen Wang**, Lin Zhao, Tonghua Wu, Jialun Cai, Xiaofan Zhu, Junming Hao. Quantifications of deep seated permafrost creep provide kinematic evidence for classifying a puzzling periglacial landform. ***Earth Surface Processes and Landforms***, 2020. [Download PDF](www.test.com)
 
@@ -35,7 +35,7 @@ For proper citations, refer [Google Scholar](https://scholar.google.com/citation
 
 [15] Youtao Yang, Guoxiang Liu]\*, **Xiaowen Wang**. Time–frequency characteristic analysis method for track geometry irregularities based on multivariate empirical mode decomposition and Hilbert spectral analysis. ***Vehicle System Dynamics***, 2020, 1-22. [Download PDF](www.test.com)
 
-[14] Taku Ozawa*****, Yosuke Aoki, Satoshi Okuyama, **Xiaowen Wang**, Yousuke Miyagi, and Akira Nohmi, Database of Crustal Deformation Observed by SAR: Improving Atmospheric Delay Mitigation for Satellite SAR Interferometry and Developing L-Band Multi-Type Portable SAR, ***J. Disaster Res.***, 2019, 14(5): 713-727.
+[14] Taku Ozawa\*, Yosuke Aoki, Satoshi Okuyama, **Xiaowen Wang**, Yousuke Miyagi, and Akira Nohmi, Database of Crustal Deformation Observed by SAR: Improving Atmospheric Delay Mitigation for Satellite SAR Interferometry and Developing L-Band Multi-Type Portable SAR, ***J. Disaster Res.***, 2019, 14(5): 713-727.
 
 [13] **Xiaowen Wang**\*, Yosuke Aoki, Jie Chen. Surface deformation of Asama volcano, Japan, detected by time series InSAR combining persistent and distributed scatterers, 2014‒2018. ***Earth, Planets and Space***, 2019. [Download PDF](www.test.com)
 
